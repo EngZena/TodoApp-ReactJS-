@@ -131,4 +131,3 @@ export const searchRes = (res) => {
         obj: res
     }
 }
-
