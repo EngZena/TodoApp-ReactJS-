@@ -1,0 +1,14 @@
+.pink {
+        color: white;
+        float: right;
+}
+
+.datePicker {
+        color: white;
+        background-color: gray;
+        padding: 5px;
+        margin: 5px;
+        border: 5px solid;
+        width: fit-content;
+}
+

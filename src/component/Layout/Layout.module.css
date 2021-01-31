@@ -1,0 +1,16 @@
+.Nav {
+    background-color: #484848;
+    color: white;
+    display: flex;
+}
+
+.content{
+    background-color: #212121;
+    color: white;
+    font-size: large;
+    min-height: 100vh;
+}
+
+.main {
+    padding: 10px 10px;
+}

@@ -1,0 +1,21 @@
+.NavigationItem {
+    margin: 5px;
+}
+
+.NavigationItem a {
+    color: white;
+    text-decoration: none;
+
+}
+
+.NavigationItem a:hover,
+.NavigationItem a:active,
+.NavigationItem a.active{
+    color: #b6ffff;
+    background-color: darkblue;
+}
+
+
+
+
+ 
